@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Gameaway",
+    "description": "This project is really great.",
+    "slug": "Gameaway",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.gameaway.gameawaysapp",
+      "buildNumber": "1",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Daha iyi hizmet verebilmemiz için kameranıza ihtiyacımız var? Erişim izni istiyoruz.",
+        "NSLocationWhenInUseUsageDescription": "Daha iyi hizmet verebilmemiz için konumunuza ihtiyacımız var? Erişim izni istiyoruz.",
+        "NSLocationAlwaysUsageDescription": "Daha iyi hizmet verebilmemiz için konumunuza ihtiyacımız var? Erişim izni istiyoruz. ",
+        "NSPhotoLibraryUsageDescription": "Daha iyi hizmet verebilmemiz için galerinize ihtiyacımız var? Erişim izni istiyoruz."
+      }
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.gameaway.gameawaysapp"
+    },
+    "notification": {
+      "icon": "./assets/icon.png",
+      "color": "#ffa457",
+      "androidMode": "default"
+    }
+  }
+}
