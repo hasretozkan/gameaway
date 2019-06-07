@@ -10,12 +10,12 @@ class Main extends React.Component {
 
   componentWillMount = () => {
     const config = {
-      apiKey: "AIzaSyARi4ZdRigpXybdwgT40ew6ooQtcBB-UxA",
-      authDomain: "giveaways-e1e33.firebaseapp.com",
-      databaseURL: "https://giveaways-e1e33.firebaseio.com",
-      projectId: "giveaways-e1e33",
-      storageBucket: "giveaways-e1e33.appspot.com",
-      messagingSenderId: "291337295181"
+      apiKey: "",
+      authDomain: "",
+      databaseURL: "",
+      projectId: "",
+      storageBucket: "",
+      messagingSenderId: ""
     };
     firebase.initializeApp(config);
   }
