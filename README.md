@@ -1,10 +1,10 @@
-# gameaway
+#Gameaway
 
 Gameaway (Türkçe)
 
 İçerik
 
--React Native Route Fonksiyonları\n
+*React Native Route Fonksiyonları*
 -Çekiliş Sistemi\n
 -Örnek Profil Sistemi\n
 -Örnek Anlık Mesajlaşma Fonksiyonları\n
