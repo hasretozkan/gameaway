@@ -25,18 +25,21 @@ It is a drawing application which contains many functions and can be considered 
 
 **Used Libraries and Versions**
 -----------------------
-"expo": "^ 30.0.1",
-    "firebase": "^ 5.5.1",
-    "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
-    "react-native-iap": "^ 2.3.12",
-    "react-native-keyboard-spacer": "^ 0.4.1",
-    "react-native-popup-dialog": "^ 0.15.0",
-    "react-native-router-flux": "^ 4.0.1",
-    "react-navigation": "^ 2.14.2",
-    "react-redux": "^ 5.0.7",
-    "redux": "^ 4.0.0",
-    "redux-thunk": "^ 2.3.0"
+
+	    "expo": "^ 30.0.1",
+        "firebase": "^ 5.5.1",
+        "react": "16.3.1",
+        "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+        "react-native-iap": "^ 2.3.12",
+        "react-native-keyboard-spacer": "^ 0.4.1",
+        "react-native-popup-dialog": "^ 0.15.0",
+        "react-native-router-flux": "^ 4.0.1",
+        "react-navigation": "^ 2.14.2",
+        "react-redux": "^ 5.0.7",
+        "redux": "^ 4.0.0",
+        "redux-thunk": "^ 2.3.0"
+
+    
 **Gameaway (Türkçe)**
 =====================
 
@@ -62,15 +65,17 @@ It is a drawing application which contains many functions and can be considered 
 
 **Kullanılan Kütüphaneler ve Versiyonlar**
 -----------------------
-"expo": "^30.0.1",
-    "firebase": "^5.5.1",
-    "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
-    "react-native-iap": "^2.3.12",
-    "react-native-keyboard-spacer": "^0.4.1",
-    "react-native-popup-dialog": "^0.15.0",
-    "react-native-router-flux": "^4.0.1",
-    "react-navigation": "^2.14.2",
-    "react-redux": "^5.0.7",
-    "redux": "^4.0.0",
-    "redux-thunk": "^2.3.0"
+
+	    "expo": "^30.0.1",
+        "firebase": "^5.5.1",
+        "react": "16.3.1",
+        "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+        "react-native-iap": "^2.3.12",
+        "react-native-keyboard-spacer": "^0.4.1",
+        "react-native-popup-dialog": "^0.15.0",
+        "react-native-router-flux": "^4.0.1",
+        "react-navigation": "^2.14.2",
+        "react-redux": "^5.0.7",
+        "redux": "^4.0.0",
+        "redux-thunk": "^2.3.0"
+
